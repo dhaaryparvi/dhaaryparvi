@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm khushi pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="300" sec="![image](https://github.com/user-attachments/assets/70c28a16-5681-45c9-9be1-e004fd67eea4)
-
-">
+<img align="right" alt="coding" width="300" sec="https://github.com/user-attachments/assets/70c28a16-5681-45c9-9be1-e004fd67eea4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaaryparvi&label=Profile%20views&color=0e75b6&style=flat" alt="dhaaryparvi" /> </p>
 
 - 💬 Ask me about **typescript , nodeJS , React**

@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Khushi Pandey 🙂
-
+###  🌱 I’m currently learning NodeJs
 <!--
 **dhaaryparvi/dhaaryparvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

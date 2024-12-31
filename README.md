@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm khushi pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" sec="![image](https://github.com/user-attachments/assets/8d537b10-87f6-4a8f-b398-a40f12d75999)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaaryparvi&label=Profile%20views&color=0e75b6&style=flat" alt="dhaaryparvi" /> </p>
 
